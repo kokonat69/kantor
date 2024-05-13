@@ -1,0 +1,28 @@
+<resources>
+    <string name="app_name">Kantor</string>
+    <string name="mainA">Twój mobilny kantor</string>
+    <string name="Pole1"> Kwota </string>
+    <string name="Pole2"> Wynik</string>
+    <string name="Pole3"> Przelicz</string>
+
+    <string name="btn">Oblicz</string>
+    <string-array name="list1">
+        <item>PLN</item>
+        <item>EUR</item>
+        <item>USD</item>
+        <item>JPY</item>
+        <item>GBP</item>
+        <item>CZK</item>
+    </string-array>
+    <string-array name="list2">
+        <item>PLN</item>
+        <item>EUR</item>
+        <item>USD</item>
+        <item>JPY</item>
+        <item>GBP</item>
+        <item>CZK</item>
+    </string-array>
+
+
+
+</resources>
