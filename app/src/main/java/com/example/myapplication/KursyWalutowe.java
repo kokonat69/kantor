@@ -9,7 +9,7 @@
 //        // Inicjalizacja kursów walutowych
 //        Map<String, Double> kursyWalutowe = new HashMap<>();
 //        // Dodawanie kursów walutowych dla poszczególnych par
-//        kursyWalutowe.put("PLNPLN", 1.0); // Kurs PLN do PLN
+//        kursyWalutowe.put("PLNPLN", 1.0); // Kurs PLN do PLNds
 //        kursyWalutowe.put("PLNEUR", 0.23); // Kurs PLN do EUR
 //        kursyWalutowe.put("PLNUSD", 0.26); // Kurs PLN do USD
 //        kursyWalutowe.put("PLNJPY", 29.43); // Kurs PLN do JPY
